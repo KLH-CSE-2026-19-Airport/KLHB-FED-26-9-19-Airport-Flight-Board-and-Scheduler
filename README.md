@@ -1,0 +1,21 @@
+Project Title:- Airport Flight Board and Scheduler
+Team Members:-
+Hrishik Neela - 2620030024
+Thodivail Avinash - 2620040171
+Supervisor's name :
+
+Abstract:-
+Abstract: Airport Flight Board & Scheduler
+The Problem Managing flight traffic is a major logistical challenge for any airport. 
+The core problem is that tracking arrivals, departures, and gate assignments manually—or with disconnected systems—inevitably leads to human error. 
+This results in double-booked gates, scheduling overlaps, and confused passengers. 
+Furthermore, when unexpected delays occur, updating this information across the terminal in real-time is difficult, creating communication bottlenecks and operational delays.
+The Solution, This project presents a Java-based Airport Flight Board & Scheduler designed to automate and streamline flight management. 
+Built using core Object-Oriented Programming (OOP) principles, the software provides a centralized system to handle daily airport logistics. 
+The solution features a management module that ensures flights are safely assigned to available gates and time slots without conflicts. 
+It also includes a dynamic Flight Board display (using Java GUI frameworks or console outputs) that instantly updates flight statuses such as "On Time," "Boarding," or "Delayed." 
+By unifying the scheduling logic with the public display, this application demonstrates how basic software engineering can solve real-world resource allocation problems and improve information accessibility.
+
+
+
+DOMAIN:- OBJECT ORIENTED PROGRAMMING(JAVA)
