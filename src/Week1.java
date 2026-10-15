@@ -7,7 +7,6 @@ public class Week1 {
         // Step 2: Define first fictitious card state
         String cardId = "S-101";
         String cardState = "READY";
-        // Print output to console matching required format
         System.out.println(simulatorTitle);
         System.out.println("Fixture cards: " + fixtureCards);
         System.out.println("First card: " + cardId + " -> " + cardState);
