@@ -1,0 +1,3 @@
+CLASSROOM BOARD-STATE SIMULATOR
+Fixture cards: 3
+First card: S-101 -> READY

@@ -1,0 +1,3 @@
+REJECTED: state must be READY, HELD, or CLOSED
+Recovered with state: HELD
+Exception result: PASS

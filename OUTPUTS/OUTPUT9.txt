@@ -1,0 +1,3 @@
+BoardCard{id=S-101, label=ALPHA, state=READY}
+Object card count: 1
+Object model: PASS

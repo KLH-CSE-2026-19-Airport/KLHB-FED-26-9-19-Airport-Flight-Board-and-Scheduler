@@ -1,0 +1,3 @@
+showCard(S-103) -> GAMMA READY
+knownState(READY) -> true
+Method check complete.

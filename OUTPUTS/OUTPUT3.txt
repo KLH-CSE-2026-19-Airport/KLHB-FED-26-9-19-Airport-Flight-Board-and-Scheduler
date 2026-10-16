@@ -1,0 +1,3 @@
+S-101 -> READY
+S-102 -> HELD
+Decision rules checked: 2

@@ -1,0 +1,3 @@
+Slot S-104: rejected
+Slot S-102: accepted
+State UNKNOWN: rejected

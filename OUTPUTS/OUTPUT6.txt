@@ -1,0 +1,3 @@
+S-103 found at index 2
+S-999 not found
+Array search complete.
